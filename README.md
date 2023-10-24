@@ -13,7 +13,7 @@
 
 ###
 
-<h1 align="center">Hi 👋, I'm minyong</h1>
+<h1 align="center">Hi 👋, I'm Minyong</h1>
 
 ###
 
