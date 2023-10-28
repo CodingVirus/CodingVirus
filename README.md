@@ -14,7 +14,7 @@
 
 ###
 
-<p align="left">I'm ... from ....<br><br>- 📚 I'm currently learning WPF, Blazor, ASP.NET<br>- ⚡ In my free time I develop games.</p>
+<p align="left">I'm ... from ....<br><br>- 📚 I'm currently learning WPF, Blazor<br>- ⚡ In my free time I develop games.</p>
 
 ###
 
