@@ -14,7 +14,7 @@
 
 ###
 
-<p align="left">I'm ... from ....<br><br>- 📚 I'm currently learning Java, Kotlin<br>- ⚡ In my free time I develop games.</p>
+<p align="left">- 📚 I'm currently learning Java, Kotlin<br>- ⚡ In my free time I develop games.</p>
 
 ###
 
