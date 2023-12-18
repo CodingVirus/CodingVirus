@@ -14,7 +14,7 @@
 
 ###
 
-<p align="left">- 📚 I'm currently learning Android, Kotlin<br>- ⚡ In my free time I develop games.</p>
+<p align="left">- 📚 I'm currently learning Android, Kotlin<br>- ⚡ In my free time I develop game.</p>
 
 ###
 
