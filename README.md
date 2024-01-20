@@ -1,7 +1,6 @@
 <div align="center">
-  <img height="150" src="https://github.com/CodingVirus/CodingVirus/assets/93506475/924a2f8a-e232-4e74-ab9b-b6c377957df0"  />
+  <img height="150" src="https://github.com/CodingVirus/CodingVirus/assets/93506475/5e05c0c0-f90a-4c25-be36-d755704b3382"  />
 </div>
-
 
 
 ###
