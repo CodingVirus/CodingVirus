@@ -4,7 +4,6 @@
 
 ###
 <!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=CodingVirus&theme=dark&show_icons=true) -->
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=CodingVirus&theme=dark&show_icons=true)
 <h1 align="center">Hi 👋, I'm Minyong </h1>
 
 ###
