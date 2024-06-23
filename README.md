@@ -12,7 +12,7 @@
 
 ###
 
-<p align="left">- 📚 I'm currently learning Android, Kotlin<br>- ⚡ In my free time I develop game.</p>
+<p align="left">- 📚 I'm currently learning Android, Kotlin, Flutter<br>- ⚡ In my free time I develop game.</p>
 
 ###
 
