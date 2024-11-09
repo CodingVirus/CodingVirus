@@ -7,16 +7,14 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=CodingVirus&theme=dark&show_icons=true)
 <h1 align="center">Hi 👋, I'm Minyong </h1>
 -->
-
+<!--
 ###
 
 <h3 align="left">👩‍💻  About Me</h3>
 
 ###
+-->
 
-<p align="left">- 📚 I'm currently learning Android, Kotlin, Flutter<br>- ⚡ In my free time I develop game.</p>
-
-###
 
 <h3 align="left">📝 Language</h3>
 
