@@ -27,7 +27,7 @@
   <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge" height="30" alt="python logo"  />
   <img width="1" />
   -->
-<img src="https://img.shields.io/badge/GDScript-478CBF?logo=godot-engine&logoColor=white&style=for-the-badge" height="30" alt="GDScript logo" />
+<img src="https://img.shields.io/badge/GDScript-9B59B6?logo=godot-engine&logoColor=white&style=for-the-badge" height="30" alt="GDScript logo" />
 <img width="1" />
   <img src="https://img.shields.io/badge/Dart-0175C2?logo=dart&logoColor=white&style=for-the-badge" height="30" alt="dart logo"  />
   <img width="1" />
