@@ -16,11 +16,11 @@
 -->
 
 
-<h3 align="left">📝 Language</h3>
+<h3 align="center">📝 Language</h3>
 
 ###
 
-<div align="left">
+<div align="center">
   <!--
   <img src="https://img.shields.io/badge/Kotlin-7F52FF?logo=kotlin&logoColor=white&style=for-the-badge" height="30" alt="kotlin logo"  />
   <img width="1" />
@@ -36,11 +36,11 @@
 
 ###
 
-<h3 align="left">🛠 Tools</h3>
+<h3 align="center">🛠 Tools</h3>
 
 ###
 
-<div align="left">
+<div align="center">
   <img src="https://img.shields.io/badge/Godot Engine-478CBF?logo=godotengine&logoColor=white&style=for-the-badge" height="30" alt="godot logo"  />
   <img width="1" />
   <img src="https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=white&style=for-the-badge" height="30" alt="flutter logo"  />
@@ -54,7 +54,7 @@
 
 ###
 
-<h3 align="left">🔥   My Stats :</h3>
+<h3 align="center">🔥   My Stats :</h3>
 
 
 ###
@@ -63,7 +63,7 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=CodingVirus&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="170" alt="languages graph"  />
 -->
 
-<div align="left">
+<div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=CodingVirus&hide_title=false&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1&hide=stars" height="180" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=CodingVirus&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2&hide=objective-c,hlsl,shaderlab,html,cmake&exclude_repo=Potato-People-Game,ML_2022" height="180" alt="languages graph"  />
 </div>
