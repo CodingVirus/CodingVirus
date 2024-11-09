@@ -24,12 +24,14 @@
   <!--
   <img src="https://img.shields.io/badge/Kotlin-7F52FF?logo=kotlin&logoColor=white&style=for-the-badge" height="30" alt="kotlin logo"  />
   <img width="1" />
-  -->
-
-  <img src="https://img.shields.io/badge/Dart-0175C2?logo=dart&logoColor=white&style=for-the-badge" height="30" alt="dart logo"  />
-  <img width="1" />
   <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge" height="30" alt="python logo"  />
   <img width="1" />
+  -->
+<img src="https://img.shields.io/badge/GDScript-478CBF?logo=godot-engine&logoColor=white&style=for-the-badge" height="30" alt="GDScript logo" />
+<img width="1" />
+  <img src="https://img.shields.io/badge/Dart-0175C2?logo=dart&logoColor=white&style=for-the-badge" height="30" alt="dart logo"  />
+  <img width="1" />
+  
   <img src="https://img.shields.io/badge/C Sharp-239120?logo=csharp&logoColor=white&style=for-the-badge" height="30" alt="csharp logo"  />
   <img width="1" />
 </div>
