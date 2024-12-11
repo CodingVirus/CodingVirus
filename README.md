@@ -26,12 +26,11 @@
   <img width="1" />
   <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge" height="30" alt="python logo"  />
   <img width="1" />
+  <img src="https://img.shields.io/badge/Dart-0175C2?logo=dart&logoColor=white&style=for-the-badge" height="30" alt="dart logo"  />
+  <img width="1" />
   -->
 <img src="https://img.shields.io/badge/GDScript-9B59B6?logo=godot-engine&logoColor=white&style=for-the-badge" height="30" alt="GDScript logo" />
 <img width="1" />
-  <img src="https://img.shields.io/badge/Dart-0175C2?logo=dart&logoColor=white&style=for-the-badge" height="30" alt="dart logo"  />
-  <img width="1" />
-  
   <img src="https://img.shields.io/badge/C Sharp-239120?logo=csharp&logoColor=white&style=for-the-badge" height="30" alt="csharp logo"  />
   <img width="1" />
 </div>
@@ -45,9 +44,9 @@
 <div align="center">
   <img src="https://img.shields.io/badge/Godot Engine-478CBF?logo=godotengine&logoColor=white&style=for-the-badge" height="30" alt="godot logo"  />
   <img width="1" />
+  <!--
   <img src="https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=white&style=for-the-badge" height="30" alt="flutter logo"  />
   <img width="1" />
-  <!--
   <img src="https://img.shields.io/badge/Android Studio-3DDC84?logo=androidstudio&logoColor=black&style=for-the-badge" height="30" alt="androidstudio logo"  />
   <img width="1" />
    -->
