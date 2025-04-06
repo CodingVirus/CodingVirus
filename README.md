@@ -29,7 +29,7 @@
   <img src="https://img.shields.io/badge/Dart-0175C2?logo=dart&logoColor=white&style=for-the-badge" height="30" alt="dart logo"  />
   <img width="1" />
   -->
-<img src="https://img.shields.io/badge/GDScript-9B59B6?logo=godot-engine&logoColor=white&style=for-the-badge" height="30" alt="GDScript logo" />
+<img src="https://img.shields.io/badge/GDScript-2c3e50?logo=godot-engine&logoColor=white&style=for-the-badge" height="30" alt="GDScript logo" />
 <img width="1" />
   <img src="https://img.shields.io/badge/C Sharp-239120?logo=csharp&logoColor=white&style=for-the-badge" height="30" alt="csharp logo"  />
   <img width="1" />
