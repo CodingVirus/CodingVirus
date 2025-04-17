@@ -54,12 +54,11 @@
 </div>
 
 ###
-
+<!--
 <h3 align="center">🔥   My Stats</h3>
 
-
 ###
-<!--
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=CodingVirus&theme=dracula&show_icons=true&hide=stars&count_private=true)
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=CodingVirus&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="170" alt="languages graph"  />
 -->
